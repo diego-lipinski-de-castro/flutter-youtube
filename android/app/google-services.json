@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111332475213",
+    "project_id": "fir-example-68b6c",
+    "storage_bucket": "fir-example-68b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111332475213:android:4a3c728ca8cf08da16f704",
+        "android_client_info": {
+          "package_name": "dc.lipinski.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111332475213-s4kr7inuou1cbvs5ms6oi7r53rjm6ggk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4hfqMQ4SqCrYW28IBsw-73M4FLlVm1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111332475213-s4kr7inuou1cbvs5ms6oi7r53rjm6ggk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
